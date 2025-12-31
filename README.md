@@ -75,6 +75,7 @@ A static web site generator is an application that takes plain text files and co
 - [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
 - [Statocles](http://preaction.me/statocles/) - Markdown, code highlighting etc. ' `#Perl`
 - [Stattic](https://github.com/getstattic/stattic) - Decentralized Publishing - `#Python`
+- [Statue](https://statue.dev/) - Svelte-based static site generator with included component library built on top SvelteKit. - `#Svelte`
 - [Tinkerer](https://github.com/vladris/tinkerer) - `#Python`
 - [WP2Static](https://github.com/elementor/wp2static) - WordPress static site generator for security, performance and cost benefits
 - [Xlog](https://xlog.emadelsaid.com/) - Personal knowledge management application with focus on enriching markdown files and surfacing implicit links between pages.
@@ -167,7 +168,6 @@ A static web site generator is an application that takes plain text files and co
 - [Sitegen](https://github.com/leafo/sitegen) - `#Lua` `#MoonScript`
 - [Slides](https://designmodo.com/slides/) - `#JavaScript`
 - [Soupault](https://soupault.app/) - A static site framework and post-processor that works with HTML element trees and can automatically manipulate them. - `#Lua` `#OCaml`
-- [Statue](https://statue.dev/) - Svelte-based static site generator with included component library built on top SvelteKit. - `#Svelte`
 - [Styx](https://styx-static.github.io/styx-site/) - The Purely Functional Static Site Generator. - `#Nix`
 - [SvelteKit](https://kit.svelte.dev/) - SvelteKit is a framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing. - `#JavaScript` `#TypeScript` `#Svelte`
 - [Tags](https://github.com/braceio/tags) - `#Python`
